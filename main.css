@@ -1,0 +1,13 @@
+body{
+  display:block;
+  width: 400px;
+  height: 400px;
+}
+
+div{
+  display: block;
+  border: 2px black solid;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
